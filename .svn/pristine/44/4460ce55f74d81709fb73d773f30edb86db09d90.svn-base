@@ -1,0 +1,21 @@
+<?php
+
+class ClSms
+{
+    /**
+     * 下面是发送SMS的相关账号信息
+     * @var string
+     */
+    public static $user = "";
+    public static $password = "";
+    public static $baseurl = "";
+
+    /**
+     * @param $phone
+     * @param $content
+     * @return bool false:有错误发生 true：消息成功发送
+     */
+    public static function sendSms($phone, $content)
+    {
+    }
+}

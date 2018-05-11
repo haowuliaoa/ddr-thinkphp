@@ -1,0 +1,24 @@
+/**
+ * Created by SongKeJing on 2015/1/24.
+ * avalon常用函数，比如avalon配置、过滤器等
+ */
+avalon.config({
+    debug: false
+});
+
+/**
+ * avalon 长度限制过滤器
+ * @type {{get: Function}}
+ */
+avalon.duplexHooks.limit = {
+    get: function(str, data){
+        var limit = parseFloat(data.element.getAttribute('data-duplex-limit'));
+        if(str.length > limit){
+            return data.element.value = str.slice(0, limit);
+        }else{
+            return str;
+        }
+    }
+};
+
+

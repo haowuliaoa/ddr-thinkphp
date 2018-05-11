@@ -1,0 +1,63 @@
+<?php
+    /**
+     * Created by PhpStorm.
+     * User: fanpengjie
+     * Date: 18-1-18
+     * Time: 下午3:22
+     */
+
+    namespace RequestService;
+
+    class RequestService
+    {
+        /**
+         * @param string $url
+         * @param array $params
+         * @param int $timeout
+         * @return bool|mixed|string
+         */
+        public static function doCurlPostRequest(string $url, array $params, int $timeout = 5)
+        {
+            if ($url == '' || empty($params) || $timeout <= 0) {
+                return false;
+            }
+            try {
+                $con = curl_init((string)$url);
+                curl_setopt($con, CURLOPT_HEADER, false);
+                curl_setopt($con, CURLOPT_POSTFIELDS, $params);
+                curl_setopt($con, CURLOPT_POST, true);
+                curl_setopt($con, CURLOPT_RETURNTRANSFER, true);
+                curl_setopt($con, CURLOPT_TIMEOUT, $timeout);
+                $res = curl_exec($con);
+                return json_decode($res, true);
+            } catch (\Exception $exception) {
+                return $exception->getMessage();
+            }
+
+        }
+
+        /**
+         * @param string $url
+         * @param array $params
+         * @param int $timeout
+         * @return bool|mixed|string
+         */
+        public static function doCurlGetRequest(string $url, array $params, int $timeout = 5)
+        {
+            if ($url == "" || $timeout <= 0) {
+                return false;
+            }
+            try {
+                $url = $url . '?' . http_build_query($params);
+                $ch = curl_init();
+                curl_setopt($ch, CURLOPT_URL, $url);
+                curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+                curl_setopt($ch, CURLOPT_HEADER, 0);
+                $res = curl_exec($ch);
+                return json_decode($res, true);
+            } catch (\Exception $exception) {
+                return $exception->getMessage();
+            }
+        }
+
+    }

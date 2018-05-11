@@ -1,0 +1,21 @@
+<?php
+
+namespace app\common\model;
+
+use think\Cache;
+use cache\Rediscache;
+class CategoryDescription extends Base
+{
+    /**
+     * 根据分类名称获取记录
+     * @param string $name
+     * @return array|false|\PDOStatement|string|\think\Model
+     * @throws \think\db\exception\DataNotFoundException
+     * @throws \think\db\exception\ModelNotFoundException
+     * @throws \think\exception\DbException
+     */
+    public static function getByCategoryName($name = '', $fields = ['category_id'])
+    {
+        return self::where(['name' => $name])->field($fields)->find();
+    }
+}

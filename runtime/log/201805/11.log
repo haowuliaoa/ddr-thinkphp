@@ -1,0 +1,1578 @@
+---------------------------------------------------------------
+[ 2018-05-11T13:47:40+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.038000s][吞吐率：26.32req/s] [内存消耗：1,970.10kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:47:40+08:00 ] 127.0.0.1 127.0.0.1 GET /favicon.ico
+[ info ] newddr.dev.com/favicon.ico [运行时间：0.022000s][吞吐率：45.45req/s] [内存消耗：1,673.17kb] [文件加载：41]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://newddr.dev.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T13:49:25+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.047000s][吞吐率：21.28req/s] [内存消耗：1,970.70kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:49:26+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.059000s][吞吐率：16.95req/s] [内存消耗：1,970.70kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:49:26+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.049000s][吞吐率：20.41req/s] [内存消耗：1,970.70kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:49:27+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.060000s][吞吐率：16.67req/s] [内存消耗：1,970.70kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:49:27+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.051000s][吞吐率：19.61req/s] [内存消耗：1,970.70kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:49:27+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.041000s][吞吐率：24.39req/s] [内存消耗：1,970.70kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:49:28+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.033000s][吞吐率：30.30req/s] [内存消耗：1,970.70kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:49:28+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.051000s][吞吐率：19.61req/s] [内存消耗：1,970.70kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:49:28+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] newddr.dev.com/ [运行时间：0.057000s][吞吐率：17.54req/s] [内存消耗：1,970.70kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ E:\wamp\www\ddr\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:./admin/dist/index.html[E:\wamp\www\ddr\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-05-11T13:50:10+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Teacher/getIndex
+[ info ] newddr.dev.com/api/Teacher/getIndex [运行时间：0.040000s][吞吐率：25.00req/s] [内存消耗：1,992.47kb] [文件加载：49]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Teacher',
+    2 => 'getgetIndex',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'getIndex',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T13:50:59+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Teacher/getIndex
+[ info ] newddr.dev.com/api/Teacher/getIndex [运行时间：0.048000s][吞吐率：20.83req/s] [内存消耗：1,992.88kb] [文件加载：49]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Teacher',
+    2 => 'getgetIndex',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'getIndex',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T13:51:03+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Teacher/getIndex
+[ info ] newddr.dev.com/api/Teacher/getIndex [运行时间：0.058000s][吞吐率：17.24req/s] [内存消耗：1,992.88kb] [文件加载：49]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Teacher',
+    2 => 'getgetIndex',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'getIndex',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T13:51:07+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Teacher/getindex
+[ info ] newddr.dev.com/api/Teacher/getindex [运行时间：0.048000s][吞吐率：20.83req/s] [内存消耗：1,992.47kb] [文件加载：49]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Teacher',
+    2 => 'getgetindex',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'getindex',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T13:51:09+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Teacher/ndex
+[ info ] newddr.dev.com/api/Teacher/ndex [运行时间：0.043000s][吞吐率：23.26req/s] [内存消耗：1,992.43kb] [文件加载：49]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Teacher',
+    2 => 'getndex',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'ndex',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T13:51:16+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Teacher/index
+[ info ] newddr.dev.com/api/Teacher/index [运行时间：0.991000s][吞吐率：1.01req/s] [内存消耗：3,418.59kb] [文件加载：65]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Teacher',
+    2 => 'getindex',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'index',
+)
+[ info ] [ RUN ] app\api\controller\TeacherController->getIndex[ E:\wamp\www\ddr\application\api\controller\TeacherController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.122000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category_description` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category_description` WHERE  `name` = '名家公开课' LIMIT 1 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.018000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category` WHERE  `parent_id` = 116 [ RunTime:0.031000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_product_to_category` [ RunTime:0.027000s ]
+[ sql ] [ SQL ] SELECT `product_id` FROM `oc_product_to_category` WHERE  `category_id` IN (117,118,119,120) [ RunTime:0.023000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_product_description` [ RunTime:0.052000s ]
+[ sql ] [ SQL ] SELECT product_id, name FROM `oc_product_description` WHERE  `product_id` IN (600,601,602,605,607,608,611,743,744,745,748,835,837,838,841,860,772,820,821,825,826,828,832,871)  AND `language_id` = 2 ORDER BY `product_id`  desc LIMIT 5 [ RunTime:0.032000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_product` [ RunTime:0.037000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 871 LIMIT 1 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_order_product` [ RunTime:0.030000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 871 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_order` [ RunTime:0.030000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN ('')  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.013000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 860 LIMIT 1 [ RunTime:0.015000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 860 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1938,1956,1973)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.011000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 841 LIMIT 1 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 841 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1940,1958,1971)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 838 LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 838 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN ('')  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.014000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 837 LIMIT 1 [ RunTime:0.014000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 837 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN ('')  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.013000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category_description` WHERE  `name` = '儿童阅读' LIMIT 1 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category` WHERE  `parent_id` = 88 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `product_id` FROM `oc_product_to_category` WHERE  `category_id` IN (105,104,106,107,108,109,110,112) [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT product_id, name FROM `oc_product_description` WHERE  `product_id` IN (825,838,850,828,841,852,832,837,854,839,851,615,821,826,840,853,860,610,772,609,771,844,846,870)  AND `language_id` = 2 ORDER BY `product_id`  desc LIMIT 5 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 870 LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 870 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN ('')  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.013000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 860 LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 860 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1938,1956,1973)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 854 LIMIT 1 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 854 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1943,1960)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 853 LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 853 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1944,1962,2124)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 852 LIMIT 1 [ RunTime:0.026000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 852 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1945,1963)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.011000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category_description` WHERE  `name` = '传统文化教育' LIMIT 1 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category` WHERE  `parent_id` = 89 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `product_id` FROM `oc_product_to_category` WHERE  `category_id` IN (113,114,115) [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT product_id, name FROM `oc_product_description` WHERE  `product_id` IN (615)  AND `language_id` = 2 ORDER BY `product_id`  desc LIMIT 5 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 615 LIMIT 1 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 615 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (738,768,779,813,822,844,845,849,855,861,867,936,951,1021,1052,1139,1153,1521,1538,1585,1590,1591,1656,1679,1680,1694,1744,1761,1820,1835,1848,1874,1883,1921,1961,2028,2047,2059)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.019000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category_description` WHERE  `name` = '通识教育' LIMIT 1 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category` WHERE  `parent_id` = 87 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `product_id` FROM `oc_product_to_category` WHERE  `category_id` IN ('') [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT product_id, name FROM `oc_product_description` WHERE  `product_id` IN ('')  AND `language_id` = 2 ORDER BY `product_id`  desc LIMIT 5 [ RunTime:0.009000s ]
+---------------------------------------------------------------
+[ 2018-05-11T13:51:52+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Teacher/index
+[ info ] newddr.dev.com/api/Teacher/index [运行时间：0.680000s][吞吐率：1.47req/s] [内存消耗：3,419.00kb] [文件加载：65]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Teacher',
+    2 => 'getindex',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'index',
+)
+[ info ] [ RUN ] app\api\controller\TeacherController->getIndex[ E:\wamp\www\ddr\application\api\controller\TeacherController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category_description` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category_description` WHERE  `name` = '名家公开课' LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category` WHERE  `parent_id` = 116 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_product_to_category` [ RunTime:0.036000s ]
+[ sql ] [ SQL ] SELECT `product_id` FROM `oc_product_to_category` WHERE  `category_id` IN (117,118,119,120) [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_product_description` [ RunTime:0.019000s ]
+[ sql ] [ SQL ] SELECT product_id, name FROM `oc_product_description` WHERE  `product_id` IN (600,601,602,605,607,608,611,743,744,745,748,835,837,838,841,860,772,820,821,825,826,828,832,871)  AND `language_id` = 2 ORDER BY `product_id`  desc LIMIT 5 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_product` [ RunTime:0.018000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 871 LIMIT 1 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_order_product` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 871 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_order` [ RunTime:0.020000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN ('')  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 860 LIMIT 1 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 860 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1938,1956,1973)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 841 LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 841 [ RunTime:0.023000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1940,1958,1971)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 838 LIMIT 1 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 838 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN ('')  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 837 LIMIT 1 [ RunTime:0.012000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 837 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN ('')  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category_description` WHERE  `name` = '儿童阅读' LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category` WHERE  `parent_id` = 88 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `product_id` FROM `oc_product_to_category` WHERE  `category_id` IN (105,104,106,107,108,109,110,112) [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT product_id, name FROM `oc_product_description` WHERE  `product_id` IN (825,838,850,828,841,852,832,837,854,839,851,615,821,826,840,853,860,610,772,609,771,844,846,870)  AND `language_id` = 2 ORDER BY `product_id`  desc LIMIT 5 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 870 LIMIT 1 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 870 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN ('')  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 860 LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 860 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1938,1956,1973)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.012000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 854 LIMIT 1 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 854 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1943,1960)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.010000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 853 LIMIT 1 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 853 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1944,1962,2124)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 852 LIMIT 1 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 852 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (1945,1963)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.011000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category_description` WHERE  `name` = '传统文化教育' LIMIT 1 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category` WHERE  `parent_id` = 89 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `product_id` FROM `oc_product_to_category` WHERE  `category_id` IN (113,114,115) [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT product_id, name FROM `oc_product_description` WHERE  `product_id` IN (615)  AND `language_id` = 2 ORDER BY `product_id`  desc LIMIT 5 [ RunTime:0.012000s ]
+[ sql ] [ SQL ] SELECT `image`,`price`,`date_available`,`viewed` FROM `oc_product` WHERE  `product_id` = 615 LIMIT 1 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `order_id` FROM `oc_order_product` WHERE  `product_id` = 615 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_order` WHERE  `order_id` IN (738,768,779,813,822,844,845,849,855,861,867,936,951,1021,1052,1139,1153,1521,1538,1585,1590,1591,1656,1679,1680,1694,1744,1761,1820,1835,1848,1874,1883,1921,1961,2028,2047,2059)  AND `store_name` = '点灯人'  AND `order_status_id` > 0 [ RunTime:0.019000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category_description` WHERE  `name` = '通识教育' LIMIT 1 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `category_id` FROM `oc_category` WHERE  `parent_id` = 87 [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT `product_id` FROM `oc_product_to_category` WHERE  `category_id` IN ('') [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT product_id, name FROM `oc_product_description` WHERE  `product_id` IN ('')  AND `language_id` = 2 ORDER BY `product_id`  desc LIMIT 5 [ RunTime:0.010000s ]
+---------------------------------------------------------------
+[ 2018-05-11T13:52:43+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Teacher/index
+[ info ] newddr.dev.com/api/Teacher/index [运行时间：0.039000s][吞吐率：25.64req/s] [内存消耗：1,865.89kb] [文件加载：44]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Teacher',
+    2 => 'getindex',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'index',
+)
+[ info ] [ RUN ] app\api\controller\TeacherController->getIndex[ E:\wamp\www\ddr\application\api\controller\TeacherController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T14:02:14+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index
+[ info ] newddr.dev.com/api/Assessment/index [运行时间：0.035000s][吞吐率：28.57req/s] [内存消耗：1,940.49kb] [文件加载：46]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T14:03:34+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.051000s][吞吐率：19.61req/s] [内存消耗：1,978.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]Class app\api\controller\Request does not exist[E:\wamp\www\ddr\thinkphp\library\think\App.php:260]
+---------------------------------------------------------------
+[ 2018-05-11T14:03:57+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.050000s][吞吐率：20.00req/s] [内存消耗：1,943.67kb] [文件加载：46]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T14:05:07+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.050000s][吞吐率：20.00req/s] [内存消耗：1,988.87kb] [文件加载：50]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]trim() expects at least 1 parameter, 0 given[E:\wamp\www\ddr\application\api\controller\AssessmentController.php:18]
+---------------------------------------------------------------
+[ 2018-05-11T14:05:21+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.065000s][吞吐率：15.38req/s] [内存消耗：1,988.64kb] [文件加载：50]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]trim() expects at least 1 parameter, 0 given[E:\wamp\www\ddr\application\api\controller\AssessmentController.php:18]
+---------------------------------------------------------------
+[ 2018-05-11T14:05:29+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.052000s][吞吐率：19.23req/s] [内存消耗：1,941.98kb] [文件加载：46]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-11T14:42:22+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.062000s][吞吐率：16.13req/s] [内存消耗：2,011.77kb] [文件加载：50]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method PhpOffice\PhpSpreadsheet\Settings::getSettingByKey()[E:\wamp\www\ddr\application\api\controller\AssessmentController.php:35]
+---------------------------------------------------------------
+[ 2018-05-11T14:43:10+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.169000s][吞吐率：5.92req/s] [内存消耗：3,108.23kb] [文件加载：56]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.089000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.019000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' [ RunTime:0.008000s ]
+---------------------------------------------------------------
+[ 2018-05-11T14:44:38+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.182000s][吞吐率：5.49req/s] [内存消耗：3,064.69kb] [文件加载：54]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.097000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.007000s ]
+---------------------------------------------------------------
+[ 2018-05-11T14:46:37+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.213000s][吞吐率：4.69req/s] [内存消耗：3,061.28kb] [文件加载：54]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.098000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.019000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.024000s ]
+---------------------------------------------------------------
+[ 2018-05-11T14:49:43+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.054000s][吞吐率：18.52req/s] [内存消耗：3,096.75kb] [文件加载：58]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]method not exist:think\db\Query->get[E:\wamp\www\ddr\thinkphp\library\think\db\Query.php:94]
+---------------------------------------------------------------
+[ 2018-05-11T14:49:49+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.075000s][吞吐率：13.33req/s] [内存消耗：3,096.55kb] [文件加载：58]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]method not exist:think\db\Query->get[E:\wamp\www\ddr\thinkphp\library\think\db\Query.php:94]
+---------------------------------------------------------------
+[ 2018-05-11T14:49:50+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.070000s][吞吐率：14.29req/s] [内存消耗：3,096.55kb] [文件加载：58]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]method not exist:think\db\Query->get[E:\wamp\www\ddr\thinkphp\library\think\db\Query.php:94]
+---------------------------------------------------------------
+[ 2018-05-11T14:52:05+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.203000s][吞吐率：4.93req/s] [内存消耗：3,060.63kb] [文件加载：54]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.110000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.018000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.007000s ]
+---------------------------------------------------------------
+[ 2018-05-11T14:54:25+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.199000s][吞吐率：5.03req/s] [内存消耗：3,206.10kb] [文件加载：61]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.108000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.021000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.006000s ]
+[ error ] [2]Missing argument 1 for think\db\Query::where()[E:\wamp\www\ddr\thinkphp\library\think\db\Query.php:938]
+---------------------------------------------------------------
+[ 2018-05-11T15:11:03+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.275000s][吞吐率：3.64req/s] [内存消耗：3,208.81kb] [文件加载：61]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.134000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.033000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.019000s ]
+[ error ] [2]Invalid argument supplied for foreach()[E:\wamp\www\ddr\thinkphp\library\think\db\Query.php:683]
+---------------------------------------------------------------
+[ 2018-05-11T15:13:17+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.245000s][吞吐率：4.08req/s] [内存消耗：3,521.75kb] [文件加载：57]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.054000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.021000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` [ RunTime:0.019000s ]
+---------------------------------------------------------------
+[ 2018-05-11T15:14:31+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.135000s][吞吐率：7.41req/s] [内存消耗：3,139.79kb] [文件加载：57]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.034000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` WHERE  `oc_category`.`parent_id` = '94'  AND `oc_category_description`.`language_id` = 2  AND `oc_category_to_store`.`store_id` = 0  AND `oc_category`.`STATUS` = 1 [ RunTime:0.009000s ]
+---------------------------------------------------------------
+[ 2018-05-11T15:16:40+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.276000s][吞吐率：3.62req/s] [内存消耗：3,140.10kb] [文件加载：57]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.051000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.058000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.056000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` WHERE  `oc_category`.`parent_id` = '94'  AND `oc_category_description`.`language_id` = 2  AND `oc_category_to_store`.`store_id` = 0  AND `oc_category`.`STATUS` = 1 ORDER BY `oc_category`.`sort_order` [ RunTime:0.009000s ]
+---------------------------------------------------------------
+[ 2018-05-11T15:16:42+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.166000s][吞吐率：6.02req/s] [内存消耗：3,140.10kb] [文件加载：57]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.018000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.018000s ]
+[ sql ] [ SQL ] SELECT * FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` WHERE  `oc_category`.`parent_id` = '94'  AND `oc_category_description`.`language_id` = 2  AND `oc_category_to_store`.`store_id` = 0  AND `oc_category`.`STATUS` = 1 ORDER BY `oc_category`.`sort_order` [ RunTime:0.006000s ]
+---------------------------------------------------------------
+[ 2018-05-11T15:17:44+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.189000s][吞吐率：5.29req/s] [内存消耗：3,169.74kb] [文件加载：62]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.034000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.036000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.026000s ]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oc_category.name' in 'field list'[E:\wamp\www\ddr\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-05-11T15:17:47+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.140000s][吞吐率：7.14req/s] [内存消耗：3,169.74kb] [文件加载：62]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.018000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.019000s ]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oc_category.name' in 'field list'[E:\wamp\www\ddr\thinkphp\library\think\db\Connection.php:388]
+---------------------------------------------------------------
+[ 2018-05-11T15:18:05+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.173000s][吞吐率：5.78req/s] [内存消耗：3,130.95kb] [文件加载：57]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.020000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.018000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.020000s ]
+[ sql ] [ SQL ] SELECT `oc_category_description`.`name`,`oc_category`.`category_id` FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` WHERE  `oc_category`.`parent_id` = '94'  AND `oc_category_description`.`language_id` = 2  AND `oc_category_to_store`.`store_id` = 0  AND `oc_category`.`STATUS` = 1 ORDER BY `oc_category`.`sort_order` [ RunTime:0.009000s ]
+---------------------------------------------------------------
+[ 2018-05-11T15:18:21+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.125000s][吞吐率：8.00req/s] [内存消耗：3,130.95kb] [文件加载：57]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.020000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `oc_category_description`.`name`,`oc_category`.`category_id` FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` WHERE  `oc_category`.`parent_id` = '94'  AND `oc_category_description`.`language_id` = 2  AND `oc_category_to_store`.`store_id` = 0  AND `oc_category`.`STATUS` = 1 ORDER BY `oc_category`.`sort_order` [ RunTime:0.008000s ]
+---------------------------------------------------------------
+[ 2018-05-11T15:18:22+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.131000s][吞吐率：7.63req/s] [内存消耗：3,130.95kb] [文件加载：57]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.020000s ]
+[ sql ] [ SQL ] SELECT `oc_category_description`.`name`,`oc_category`.`category_id` FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` WHERE  `oc_category`.`parent_id` = '94'  AND `oc_category_description`.`language_id` = 2  AND `oc_category_to_store`.`store_id` = 0  AND `oc_category`.`STATUS` = 1 ORDER BY `oc_category`.`sort_order` [ RunTime:0.006000s ]
+---------------------------------------------------------------
+[ 2018-05-11T15:18:30+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.767000s][吞吐率：1.30req/s] [内存消耗：3,219.98kb] [文件加载：60]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.347000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.246000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.036000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.018000s ]
+[ sql ] [ SQL ] SELECT `oc_category_description`.`name`,`oc_category`.`category_id` FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` WHERE  `oc_category`.`parent_id` = '94'  AND `oc_category_description`.`language_id` = 2  AND `oc_category_to_store`.`store_id` = 0  AND `oc_category`.`STATUS` = 1 ORDER BY `oc_category`.`sort_order` [ RunTime:0.011000s ]
+---------------------------------------------------------------
+[ 2018-05-11T15:19:28+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.140000s][吞吐率：7.14req/s] [内存消耗：3,220.13kb] [文件加载：60]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.017000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.018000s ]
+[ sql ] [ SQL ] SELECT `oc_category_description`.`name`,`oc_category`.`category_id` FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` WHERE  `oc_category`.`parent_id` = '94'  AND `oc_category_description`.`language_id` = 2  AND `oc_category_to_store`.`store_id` = 0  AND `oc_category`.`STATUS` = 1 ORDER BY `oc_category`.`sort_order` [ RunTime:0.006000s ]
+---------------------------------------------------------------
+[ 2018-05-11T15:36:55+08:00 ] 127.0.0.1 127.0.0.1 GET /api/Assessment/index?tab_category_id=62
+[ info ] newddr.dev.com/api/Assessment/index?tab_category_id=62 [运行时间：0.346000s][吞吐率：2.89req/s] [内存消耗：3,220.13kb] [文件加载：60]
+[ info ] [ LANG ] E:\wamp\www\ddr\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Assessment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'newddr.dev.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=4308604928',
+)
+[ info ] [ PARAM ] array (
+  'tab_category_id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\AssessmentController->index[ E:\wamp\www\ddr\application\api\controller\AssessmentController.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.191000s ] mysql:host=192.168.1.109;port=3306;dbname=opencart;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_setting` [ RunTime:0.024000s ]
+[ sql ] [ SQL ] SELECT `value` FROM `oc_setting` WHERE  `key` = 'config_store_book_type_category_id' LIMIT 1 [ RunTime:0.012000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `oc_category` [ RunTime:0.019000s ]
+[ sql ] [ SQL ] SELECT `oc_category_description`.`name`,`oc_category`.`category_id` FROM `oc_category` LEFT JOIN `oc_category_description` `oc_category_description` ON `oc_category`.`category_id`=`oc_category_description`.`category_id` LEFT JOIN `oc_category_to_store` `oc_category_to_store` ON `oc_category`.`category_id`=`oc_category_to_store`.`category_id` WHERE  `oc_category`.`parent_id` = '94'  AND `oc_category_description`.`language_id` = 2  AND `oc_category_to_store`.`store_id` = 0  AND `oc_category`.`STATUS` = 1 ORDER BY `oc_category`.`sort_order` [ RunTime:0.010000s ]
