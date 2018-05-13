@@ -20,4 +20,17 @@ class ProductToCategory extends Base
         $where['category_id'] = ['in', $category_ids];
         return self::where($where)->field($fields)->select()->toArray();
     }
+    /**
+     * 获取阅读评测商品列表
+     */
+    public static function getAssessmentIds($data,$fields = ['p.product_id'],$limit = 5,$offset=0)
+    {
+        $where['p.STATUS'] = ['=',1];
+        $where['p.date_available'] = ['<=',time()];
+        $where['oc_product_to_category.category_id'] = ['=',$data['category_id']];
+        if($data['filter_id']){
+            $where['p.product_id'] = ['in',$data['filter_id']];
+        }
+        return self::join('oc_product p', 'oc_product_to_category.product_id = p.product_id','LEFT')->where($where)->order($data['sort'],$data['order'])->order('p.sort_order','ASC')->field($fields)->limit($offset,$limit)->select()->toArray();
+    }
 }

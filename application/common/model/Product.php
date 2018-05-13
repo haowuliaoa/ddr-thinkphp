@@ -23,21 +23,4 @@ class Product extends Base
         $where['product_id'] = $product_id;
         return self::where($where)->field($fields)->find();
     }
-
-    public static function getProductList($data){
-        $res = [
-            'more_href',
-            'thumb',
-            'name',
-            'manufacturer',
-            'rating',
-            'rating',
-            'special',
-            'price_num',
-            'price',
-'special_num',
-            'price',
-            'special',
-        ];
-    }
 }
